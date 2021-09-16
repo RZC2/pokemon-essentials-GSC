@@ -1,0 +1,515 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+PlayerA = POKEMONTRAINER_Gold,trchar000,Gold-onbike,PKMN-SURF_A,boy_run,PKMN-SURF_A,Gold-fishing,Gold-fishing
+PlayerB = POKEMONTRAINER_Crystal,trchar001,Crystal-onbike,PKMN-SURF_B,girl_run,PKMN-SURF_B,Crystal-fishing,Crystal-fishing
+TrainerVictoryME = Trainer Defeated.ogg
+WildVictoryME = Wild Defeated.ogg
+TrainerBattleBGM = VS Trainer.ogg
+SurfBGM = Surf.ogg
+BicycleBGM = Bicycle.ogg
+Home = 3,13,8,8
+WildBattleBGM = VS Wild.ogg
+#-------------------------------
+[001]
+# INTRO
+#-------------------------------
+[002]
+# NEW BARK TOWN
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 0,20,12
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[003]
+# \PN'S HOUSE
+BattleBack = general
+MapPosition = 0,20,12
+HealingSpot = 2,8,8
+#-------------------------------
+[004]
+# \PN'S ROOM
+BattleBack = general
+MapPosition = 0,20,12
+ShowArea = false
+#-------------------------------
+[005]
+# HOUSE 1
+BattleBack = general
+MapPosition = 0,20,12
+#-------------------------------
+[006]
+# HOUSE 2
+BattleBack = general
+MapPosition = 0,20,12
+#-------------------------------
+[007]
+# ELM'S POKéMON LAB
+MapSize = 2,11
+BattleBack = general
+MapPosition = 0,20,12
+#-------------------------------
+[008]
+# ROUTE 29
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 0,18,12
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[009]
+# KURT'S HOUSE
+BattleBack = general
+MapPosition = 0,18,12
+Outdoor = true
+#-------------------------------
+[010]
+# GOLDENROD CITY
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 0,18,11
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[011]
+# POKéCOM CENTER
+MapPosition = 0,18,11
+#-------------------------------
+[012]
+# GYM EXAMPLE
+SnapEdges = true
+BattleBack = general
+MapPosition = 0,18,11
+#-------------------------------
+[014]
+# UNDERGROUND PATH
+MapPosition = 0,18,11
+#-------------------------------
+[017]
+# GAME CORNER
+MapPosition = 0,18,11
+#-------------------------------
+[018]
+# GOLDENROD DEPT. 1F
+MapPosition = 0,18,11
+#-------------------------------
+[019]
+# GOLDENROD DEPT. 2F
+MapPosition = 0,18,11
+#-------------------------------
+[020]
+# GOLDENROD DEPT. 3F
+MapPosition = 0,18,11
+#-------------------------------
+[021]
+# GOLDENROD DEPT. 4F
+MapPosition = 0,18,11
+#-------------------------------
+[022]
+# GOLDENROD DEPT. 5F
+MapPosition = 0,18,11
+#-------------------------------
+[023]
+# GOLDENROD DEPT. 6F
+MapPosition = 0,18,11
+#-------------------------------
+[024]
+# GOLDENROD DEPT. ELEVATOR
+MapPosition = 0,18,11
+#-------------------------------
+[025]
+# BIKE SHOP
+MapPosition = 0,18,11
+#-------------------------------
+[026]
+# GOLDENROD STATION
+MapPosition = 0,18,11
+#-------------------------------
+[027]
+# EXIL FOREST SOUTH ENTRANCE
+MapPosition = 0,18,10
+#-------------------------------
+[028]
+# EXIL FOREST
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 0,18,10
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[029]
+# GANYMAHO TOWN
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 0,18,9
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[030]
+# EXIL FOREST NORTH ENTRANCE
+BattleBack = general
+MapPosition = 0,18,10
+#-------------------------------
+[031]
+# GANYMAHO TOWN POKé CENTER
+BattleBack = general
+MapPosition = 0,18,9
+#-------------------------------
+[032]
+# GANYMAHO TOWN MART
+BattleBack = general
+MapPosition = 0,18,9
+#-------------------------------
+[033]
+# POKéMON FAN CLUB
+BattleBack = general
+MapPosition = 0,18,9
+#-------------------------------
+[034]
+# POKéMON DAY CARE
+BattleBack = general
+MapPosition = 0,18,9
+#-------------------------------
+[035]
+# PARK NATIONAL
+BattleBack = general
+MapPosition = 0,18,8
+#-------------------------------
+[036]
+# PARK NATIONAL ENTRANCE
+BattleBack = general
+MapPosition = 0,18,8
+#-------------------------------
+[037]
+# PARK NATIONAL PAVILLION
+BattleBack = general
+MapPosition = 0,18,8
+#-------------------------------
+[038]
+# ROUTE 30
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 0,20,9
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[039]
+# ICE PATH
+SnapEdges = false
+BattleBack = general
+MapPosition = 0,21,8
+ShowArea = true
+#-------------------------------
+[040]
+# ROUTE 31
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 0,21,10
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[041]
+# UNION CAVE
+BattleBack = general
+MapPosition = 0,20,10
+#-------------------------------
+[042]
+# UNION CAVE
+BattleBack = general
+MapPosition = 0,20,10
+#-------------------------------
+[043]
+# DUNGEON
+BattleBack = general
+MapPosition = 0,20,10
+#-------------------------------
+[044]
+# ROUTE 28
+SnapEdges = true
+BattleBack = general
+DiveMap = 45
+BattleBack = general
+Bicycle = true
+MapPosition = 0,22,12
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[045]
+# UNDERWATER
+BattleBack = general
+MapPosition = 0,22,12
+#-------------------------------
+[046]
+# VERLD FALLS
+BattleBack = general
+MapPosition = 1,7,11
+#-------------------------------
+[047]
+# INDIGO PLATEAU ENTRANCE
+BattleBack = general
+MapPosition = 1,9,11
+#-------------------------------
+[048]
+# INDIGO PLATEAU
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 1,9,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[049]
+# POKéMON LEAGUE
+BattleBack = general
+MapPosition = 1,9,7
+#-------------------------------
+[050]
+# POKéMON LEAGUE
+BattleBack = general
+MapPosition = 1,9,7
+#-------------------------------
+[051]
+# HALL OF FAME
+BattleBack = general
+MapPosition = 1,9,7
+#-------------------------------
+[052]
+# BATTLE FRONTIER
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 0,16,9
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[053]
+# BATTLE FRONTIER POKé CENTER
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[054]
+# BATTLE FRONTIER MART
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[055]
+# BATTLE TOWER
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[056]
+# BATTLE TOWER ARENA
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[057]
+# STADIUM CUP LOBBY
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[058]
+# BATTLE PALACE
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[059]
+# BATTLE PALACE ARENA
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[060]
+# BATTLE ARENA
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[061]
+# BATTLE ARENA ARENA
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[062]
+# BATTLE FACTORY
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[063]
+# BATTLE FACTORY INTRO CORRIDOR
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[064]
+# BATTLE FACTORY ARENA
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[065]
+# BATTLE FACTORY CORRIDOR
+BattleBack = general
+MapPosition = 0,16,9
+#-------------------------------
+[066]
+# BATTLE FRONTIER ENTRANCE
+BattleBack = general
+MapPosition = 0,17,9
+#-------------------------------
+[067]
+# FRONSAF CITY
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 1,11,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[068]
+# FRONSAF CITY POKé CENTER
+MapPosition = 1,11,8
+#-------------------------------
+[069]
+# FRONSAF CITY MART
+MapPosition = 1,11,8
+#-------------------------------
+[070]
+# FRONSAF CITY STATION
+MapPosition = 1,11,8
+#-------------------------------
+[071]
+# ROUTE 24
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 1,13,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[072]
+# ROUTE 24
+SnapEdges = true
+BattleBack = general
+Bicycle = false
+MapPosition = 1,13,8
+Outdoor = true
+BicycleAlways = true
+ShowArea = true
+#-------------------------------
+[073]
+# CYCLING ROAD GATE
+MapPosition = 1,12,8
+#-------------------------------
+[074]
+# ROUTE 25
+SnapEdges = true
+BattleBack = general
+MapPosition = 1,13,9
+Outdoor = true
+BicycleAlways = true
+ShowArea = true
+#-------------------------------
+[075]
+# ROUTE 26
+SnapEdges = true
+BattleBack = general
+MapPosition = 1,13,11
+Outdoor = true
+BicycleAlways = true
+ShowArea = true
+#-------------------------------
+[076]
+# ROUTE 26
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 1,13,11
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[077]
+# CYCLING ROAD GATE
+MapPosition = 1,12,11
+#-------------------------------
+[078]
+# LLIONVERMI CITY
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 1,11,11
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[079]
+# LLIONVERMI CITY POKé CENTER
+MapPosition = 1,11,11
+#-------------------------------
+[080]
+# LLIONVERMI CITY MART
+MapPosition = 1,11,11
+#-------------------------------
+[081]
+# OAK'S POKÉMON LAB
+MapPosition = 1,11,11
+#-------------------------------
+[082]
+# SAFARI ZONE
+SafariMap = true
+SnapEdges = true
+BattleBack = general
+Bicycle = false
+MapPosition = 1,11,10
+Outdoor = true
+#-------------------------------
+[083]
+# SAFARY ZONE GATE
+MapPosition = 1,11,10
+#-------------------------------
+[084]
+# HARBOUR
+SnapEdges = true
+BattleBack = general
+Bicycle = false
+MapPosition = 1,11,11
+Outdoor = true
+#-------------------------------
+[085]
+# ROUTE 27
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+MapPosition = 1,10,11
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[086]
+# DAROXY ISLAND
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[087]
+# FARADAY ISLAND
+SnapEdges = true
+BattleBack = general
+Bicycle = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[088]
+# RADIO TOWER
+SnapEdges = true
+BattleBack = general
+MapPosition = 0,18,11
+#-------------------------------
+[089]
+# RADIO TOWER 2F
+SnapEdges = true
+BattleBack = general
+MapPosition = 0,18,11

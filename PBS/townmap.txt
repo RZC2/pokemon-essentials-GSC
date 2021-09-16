@@ -1,0 +1,32 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Filename = mapRegion0.png
+Name = OTTO
+Point = 20,12,NEW BARK TOWN,,2,15,8,
+Point = 18,12,ROUTE 29,,,,,
+Point = 18,11,GOLDENROD CITY,,10,16,28,
+Point = 18,10,EXIL FOREST,,,,,
+Point = 18,9,GANYMAHO TOWN,,29,15,18,
+Point = 18,8,PARK NATIONAL,,,,,
+Point = 20,9,ROUTE 30,,,,,
+Point = 21,8,ICE PATH,,,,,
+Point = 21,10,ROUTE 31,,,,,
+Point = 20,10,UNION CAVE,,,,,
+Point = 22,12,ROUTE 28,,,,,
+Point = 16,9,BATTLE FRONTIER,,52,23,8,
+[1]
+Filename = mapRegion1.png
+Name = ANKTO
+Point = 9,8,INDIGO PLATEAU,,48,13,6,
+Point = 9,7,POKéMON LEAGUE,,,,,
+Point = 11,8,FRONSAF CITY,,67,11,20,
+Point = 13,8,ROUTE 24,,,,,
+Point = 13,9,ROUTE 25,,,,,
+Point = 13,11,ROUTE 26,,,,,
+Point = 11,11,LLIONVERMI CITY,,78,7,12,
+Point = 11,10,SAFARI ZONE,,,,,
+Point = 10,11,ROUTE 27,,,,,
+
+
+

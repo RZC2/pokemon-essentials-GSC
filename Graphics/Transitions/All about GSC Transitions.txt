@@ -1,0 +1,45 @@
+Video reference:
+
+https://www.youtube.com/watch?v=eij_1060SMc&ab_channel=Crystal_
+
+Annotations:
+
+- Palettes from flashing effects (trainer battles) in order of sequence:
+
+    - 765F
+	- 3D7F
+	- 14BF
+	- 1CE7
+
+* The Poké Ball graphic is only used for trainer battles.
+* Trainer battle transitions in dark caves has a more intense red palette.
+
+- For wild encounters, the flash effects goes from light to dark an viceversa taking the map palettes, not red one.
+
+
+Battle transitions types:
+
+
+1. Fading
+
+Conditions: 
+    - NO dungeon map.
+	- If the very first Player's Pokémon has a lower level than the enemy.
+	
+2. Circle
+
+Conditions:
+    - No dungeon map.
+	- If the very first Player's Pokémon has a level higher or equal to the enemy's level.
+	
+3. Box out
+
+Conditions:
+    - DUNGEON map.
+	- If the very first Player's Pokémon has a lower level than the enemy.
+	
+4. Distortion
+
+Conditions:
+   - DUNGEON map.
+   - If the very first Player's Pokémon has a level higher or equal to the enemy's level.

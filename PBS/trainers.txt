@@ -1,0 +1,142 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,LIAM]
+LoseText = "A very good battle, indeed."
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Falkner,FALKNER]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "Very good."
+Pokemon = PIDGEY,13
+    Gender = male
+    Moves = TACKLE,SANDATTACK,GUST,QUICKATTACK
+    Ability = 0
+    Nature = ADAMANT
+    Ball = 20
+Pokemon = PIDGEOTTO,14
+    Gender = female
+    Shiny = yes
+    Moves = TACKLE,SANDATTACK,GUST,SWAGGER
+    Ability = 0
+    Item = GOLDBERRY
+    Nature = SERIOUS
+#-------------------------------
+[ROCKETGRUNT_M,GRUNT,1]
+LoseText = "You're too good for me!"
+Pokemon = WEEPINBELL,21
+    Shadow = yes
+#-------------------------------
+[ROCKETGRUNT_F,GRUNT,1]
+LoseText = "You're too good for me!"
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[YOUNGSTER,BEN]
+LoseText = "Aww, I lost."
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,JEFF]
+LoseText = "A very good battle, indeed."
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,JEFF,1]
+LoseText = "You beat me again!"
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,SUSIE]
+LoseText = "Defeated! Oh my!"
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,SUSIE,1]
+LoseText = "Defeated! Oh my!"
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,FORD]
+LoseText = "You're too good for me!"
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,ANDREW]
+LoseText = "Washed out!"
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,BRIDGET]
+LoseText = "My SKITTY!"
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,CRISSY]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[TWINS,MARY & SUE]
+LoseText = "Our teamwork failed!"
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[MYSTICALMAN,EUSINE]
+LoseText = "..."
+Pokemon = DROWZEE,19
+#-------------------------------
+[SWIMMER_F,ARIEL]
+LoseText = "Washed out!"
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,SILVER]
+LoseText = "Not too shabby."
+Pokemon = ZUBAT,17
+Pokemon = MAGNEMITE,15
+Pokemon = CHIKORITA,18
+#-------------------------------
+[RIVAL1,SILVER,1]
+LoseText = "Not too shabby."
+Pokemon = ZUBAT,17
+Pokemon = MAGNEMITE,15
+Pokemon = CYNDAQUIL,18
+#-------------------------------
+[RIVAL1,SILVER,2]
+LoseText = "Not too shabby."
+Pokemon = ZUBAT,17
+Pokemon = MAGNEMITE,15
+Pokemon = TOTODILE,18
+#-------------------------------
+[RIVAL2,SILVER]
+LoseText = "Not again!"
+Pokemon = GOLBAT,22
+Pokemon = MAGNETON,20
+Pokemon = BAYLEEF,24
+#-------------------------------
+[RIVAL2,SILVER,1]
+LoseText = "Not again!"
+Pokemon = GOLBAT,22
+Pokemon = MAGNETON,20
+Pokemon = QUILAVA,24
+#-------------------------------
+[RIVAL2,SILVER,2]
+LoseText = "Not again!"
+Pokemon = GOLBAT,22
+Pokemon = MAGNETON,20
+Pokemon = CROCONAW,24
+#-------------------------------
+[CHAMPION,LANCE]
+LoseText = "A good battle indeed!"
+Pokemon = DRATINI,63
+    Gender = male
+    Ability = 0
+    Item = GOLDBERRY
+Pokemon = DRAGONAIR,63
+    Gender = male
+    Ability = 0
+    Item = GOLDBERRY
+Pokemon = DRAGONITE,63
+    Gender = female
+    Shiny = yes
+    Ability = 0
+    Item = GOLDBERRY
